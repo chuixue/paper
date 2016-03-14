@@ -1,0 +1,63 @@
+﻿School of Computer Science，Southwest Petroleum University
+
+
+
+
+Predicting Customers' Behavior in E-commerce using Multilayer Perceptron
+
+
+
+
+Predicting the occurrence of commodity purchase is helpful for electricity supplier to achieve a good product recommendation [6]. This paper presents the application of multilayer perceptron for predicting users' purchase behaviors on e-commerce websites. The model is built by learning from user's history data and behaviors at present. The data we use is a four months of data provided by Alibaba, the largest online shopping marketplace in China. Compared to classical three-layer multilayer perceptron model, the model we use here is a deep network with more hidden layers. The performance of our multilayer model is verified to be better than traditional methods do, especially in five-layered multilayer model.
+
+[1] Sarwar B, Karypis G, Konstan J, et al. Analysis of recommendation algorithms for e-commerce[C]//Proceedings of the 2nd ACM conference on Electronic commerce. ACM, 2000: 158-167.
+[2] Zhu Z, Luo P, Wang X, et al. Multi-view perceptron: a deep model for learning face identity and view representations[C]//Advances in Neural Information Processing Systems. 2014: 217-225.
+[3] Schafer J B, Konstan J, Riedl J. Recommender systems in e-commerce[C]//Proceedings of the 1st ACM conference on Electronic commerce. ACM, 1999: 158-166.
+[4] Sarwar B, Karypis G, Konstan J, et al. Analysis of recommendation algorithms for e-commerce[C]//Proceedings of the 2nd ACM conference on Electronic commerce. ACM, 2000: 158-167.
+[5] D Harrison McKnight N L C. What trust means in e-commerce customer relationships: an interdisciplinary conceptual typology[J]. International journal of electronic commerce, 2001, 6(2): 35-59.
+[6] Schafer J B, Konstan J A, Riedl J. E-commerce recommendation applications[M]//Applications of Data Mining to Electronic Commerce. Springer US, 2001: 115-153.
+[7] Schwab I, Pohl W, Koychev I. Learning to recommend from positive evidence[C]//Proceedings of the 5th international conference on Intelligent user interfaces. ACM, 2000: 241-247.
+[8] Ma H, King I, Lyu M R. Learning to recommend with social trust ensemble[C]//Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval. ACM, 2009: 203-210.
+[9] Ahonen T, Hadid A, Pietikainen M. Face description with local binary patterns: Application to face recognition[J]. Pattern Analysis and Machine Intelligence, IEEE Transactions on, 2006, 28(12): 2037-2041.
+[10] Asthana A, Marks T K, Jones M J, et al. Fully automatic pose-invariant face recognition via 3D pose normalization[C]//Computer Vision (ICCV), 2011 IEEE International Conference on. IEEE, 2011: 937-944.
+[11] Ruck D W, Rogers S K, Kabrisky M. Feature selection using a multilayer perceptron[J]. Journal of Neural Network Computing, 1990, 2(2): 40-48.
+[12] Parlos A G, Chong K T, Atiya A F. Application of the recurrent multilayer perceptron in modeling complex process dynamics[J]. Neural Networks, IEEE Transactions on, 1994, 5(2): 255-266.
+[13] Yan H, Jiang Y, Zheng J, et al. A multilayer perceptron-based medical decision support system for heart disease diagnosis[J]. Expert Systems with Applications, 2006, 30(2): 272-281.
+[14] Rosenblatt F. The perceptron: a probabilistic model for information storage and organization in the brain[J]. Psychological review, 1958, 65(6): 386.
+[15] Rosenblatt F. Principles of neurodynamics. perceptrons and the theory of brain mechanisms[R]. CORNELL AERONAUTICAL LAB INC BUFFALO NY, 1961.
+
+
+manuscript 
+
+
+This is a manuscript in Word format, Once accepted I will follow the journal's requirement to submit the final revision of my paper in LaTeX.
+
+
+
+[1] Sarwar, Badrul, et al. "Analysis of recommendation algorithms for e-commerce." Proceedings of the 2nd ACM conference on Electronic commerce. ACM, 2000.
+[2] Zhu, Zhenyao, et al. "Multi-view perceptron: a deep model for learning face identity and view representations." Advances in Neural Information Processing Systems. 2014.
+[3] Schafer, J. Ben, Joseph Konstan, and John Riedl. "Recommender systems in e-commerce." Proceedings of the 1st ACM conference on Electronic commerce. ACM, 1999.
+[4] Sarwar, Badrul, et al. "Analysis of recommendation algorithms for e-commerce." Proceedings of the 2nd ACM conference on Electronic commerce. ACM, 2000.
+[5] D Harrison McKnight, Norman L. Chervany. "What trust means in e-commerce customer relationships: an interdisciplinary conceptual typology." International journal of electronic commerce 6.2 (2001): 35-59.
+[6] Schafer, J. Ben, Joseph A. Konstan, and John Riedl. "E-commerce recommendation applications." Applications of Data Mining to Electronic Commerce. Springer US, 2001. 115-153.
+[7] Schwab, Ingo, Wolfgang Pohl, and Ivan Koychev. "Learning to recommend from positive evidence." Proceedings of the 5th international conference on Intelligent user interfaces. ACM, 2000.
+[8] Ma, Hao, Irwin King, and Michael R. Lyu. "Learning to recommend with social trust ensemble." Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval. ACM, 2009.
+[9] T. Ahonen, A. Hadid, and M. Pietikainen. Face description with local binary patterns: Application to face recognition. TPAMI, 28:2037–2041, 2006.
+[10] A. Asthana, T. K. Marks, M. J. Jones, K. H. Tieu, and M. Rohith. Fully automatic poseinvariant face recognition via 3d pose normalization. In ICCV, 2011.
+[11] Ruck, Dennis W., Steven K. Rogers, and Matthew Kabrisky. "Feature selection using a multilayer perceptron." Journal of Neural Network Computing 2.2 (1990): 40-48.
+[12] Parlos, Alexander G., Kil To Chong, and Amir F. Atiya. "Application of the recurrent multilayer perceptron in modeling complex process dynamics." Neural Networks, IEEE Transactions on 5.2 (1994): 255-266.
+[13] Yan, Hongmei, et al. "A multilayer perceptron-based medical decision support system for heart disease diagnosis." Expert Systems with Applications 30.2 (2006): 272-281.
+[14] F. Rosenblatt. "The perceptron, A perceiving and recognizing automation." Cornell Aeronautical Laboratory Report No. 85-460-1, Jan.1957.
+[15] Rosenblatt, Frank. x. Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms. Spartan Books, Washington DC, 1961.
+
+
+
+
+
+
+
+
+
+
+
+
