@@ -1,0 +1,15 @@
+<script>
+	var data=[2.91,1.28,1.02,1.01,0.97,0.84,0.72,0.66,0.24,0.20];
+	var sum=0.0
+	data.forEach(function(d, i){
+		sum += d;
+	});
+	var s=0.0;
+	data.forEach(function(d, i){
+	s += d/sum;
+		document.write((s).toFixed(4) *100+ " , ");
+		
+	});
+	
+
+</script>
